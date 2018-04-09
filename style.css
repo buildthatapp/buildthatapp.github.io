@@ -1,0 +1,89 @@
+/*Stylesheet for Stage 1*/
+
+/* Colour Scheme:
+#02b3e4 - cyan
+#02ccba - aquamarine
+#294860 - dark blue
+*/
+
+* {
+  /*outline: 1px solid red !important;*/
+
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+header, main, nav, aside, footer {
+  flex: 1 100%;
+}
+
+nav {
+  width: 100%;
+  position: fixed;
+  background-color: inherit;
+
+  display: flex;
+  flex-flow: wrap;
+  justify-content: center;
+}
+
+h1 {
+  text-align: center;
+  margin: 0 20px;
+  padding: 10px;
+  margin-top: 80px;
+  color: #02b3e4;
+}
+
+#subtitle {
+  text-align: center;
+  color: #abd;
+  font-size: 1.2em;
+}
+
+body {
+  margin: 0px;
+  font-family: Helvetica;
+  color: #035;
+  background-color: #FFFFFF;
+}
+
+a {
+  color: #02b3e4;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #294860
+}
+
+main {
+  display: flex;
+  flex-flow: wrap;
+  justify-content: center;
+}
+
+.project {
+  width: 400px;
+  border-radius: 15px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.project:hover{
+  background: rgba(100, 150, 150, 0.1);
+}
+
+img {
+  width: inherit;
+}
+
+h2 { text-align: center;}
+h2 a { color: #02ccba;}
+
+footer {
+  text-align: center;
+  font-weight: bold;
+}
