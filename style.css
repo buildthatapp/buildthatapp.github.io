@@ -70,6 +70,10 @@ a:hover {
   color: #294860;
 }
 
+li {
+  text-align: left;
+}
+
 main {
   display: flex;
   flex-flow: wrap;
