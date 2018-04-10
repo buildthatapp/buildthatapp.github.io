@@ -64,7 +64,7 @@ body {
 }
 
 a {
-  color: black;
+  color: #FF8E00;
   text-decoration: none;
 }
 
@@ -94,20 +94,20 @@ main {
 }
 
 #projectone {
-	border-top: 2px solid #CC6414;
-	border-left: 2px solid #CC6414;
+	border-top: 2px solid #0076B2;
+	border-left: 2px solid #0076B2;
 }
 #projecttwo {
-	border-top: 2px solid #CC6414;
-  border-left: 2px solid #CC6414;
+	border-top: 2px solid #19B2FF;
+  border-left: 2px solid #19B2FF;
 }
 #projectthree {
-	border-top: 2px solid #CC6414;
-  border-left: 2px solid #CC6414;
+	border-top: 2px solid #00A9FF;
+  border-left: 2px solid #00A9FF;
 }
 #projectfour {
-	border-top: 2px solid #CC6414;
-  border-left: 2px solid #CC6414;
+	border-top: 2px solid #B26300;
+  border-left: 2px solid #B26300;
 }
 
 
