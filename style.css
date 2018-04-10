@@ -58,10 +58,7 @@ body {
   margin: 0px;
   font-family: Helvetica;
   color: #035;
-  background-image: url("1.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
+  background-color: gray;
 }
 
 a {
