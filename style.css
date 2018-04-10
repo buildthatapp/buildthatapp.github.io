@@ -82,6 +82,7 @@ main {
   padding: 10px;
   margin: 10px;
   border-top: 2px solid #CC6414;
+  border-left: 2px solid #CC6414;
   background-color: white;
   color: #0059B2;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
