@@ -21,10 +21,10 @@
 }
 
 p {
-	color: white;
+	color: black;
 }
 ul {
-	color: white;
+	color: black;
 }
 
 header, main, nav, aside, footer {
@@ -45,7 +45,7 @@ h1 {
   margin: 0 20px;
   padding: 10px;
   margin-top: 80px;
-  color: white;
+  color: black;
 }
 
 #subtitle {
@@ -58,16 +58,16 @@ body {
   margin: 0px;
   font-family: Helvetica;
   color: #035;
-  background-color: gray;
+  background-color: white;
 }
 
 a {
-  color: white;
+  color: black;
   text-decoration: none;
 }
 
 a:hover {
-  color: white;
+  color: #294860;
 }
 
 main {
@@ -81,9 +81,11 @@ main {
   border-radius: 15px;
   padding: 10px;
   margin: 10px;
-  border: .5px solid #CC6414;
+  border-top: .2x solid #CC6414;
   background-color: #0059B2;
-  transparent: 75%;
+  color: #0059B2;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
 }
 
 .project:hover{
